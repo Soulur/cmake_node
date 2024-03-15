@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/app.dir/main.cpp.o  -o ../../bin/app   -L/home/soulur/projecks/hello/tests/part7/lib  -Wl,-rpath,/home/soulur/projecks/hello/tests/part7/lib ../../lib/libsort.a ../../lib/libcalc.a 

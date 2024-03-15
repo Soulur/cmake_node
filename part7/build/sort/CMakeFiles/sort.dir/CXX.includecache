@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/calc.h
+iostream
+-
+
+../include/sort.h
+iostream
+-
+vector
+-
+algorithm
+-
+
+/home/soulur/projecks/hello/tests/part7/sort/insert.cpp
+sort.h
+/home/soulur/projecks/hello/tests/part7/sort/sort.h
+calc.h
+/home/soulur/projecks/hello/tests/part7/sort/calc.h
+

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/calc.h
+iostream
+-
+
+/home/soulur/projecks/hello/tests/part8/calc/add.cpp
+calc.h
+/home/soulur/projecks/hello/tests/part8/calc/calc.h
+
+/home/soulur/projecks/hello/tests/part8/calc/dif.cpp
+calc.h
+/home/soulur/projecks/hello/tests/part8/calc/calc.h
+
+/home/soulur/projecks/hello/tests/part8/calc/mult.cpp
+calc.h
+/home/soulur/projecks/hello/tests/part8/calc/calc.h
+
+/home/soulur/projecks/hello/tests/part8/calc/sub.cpp
+calc.h
+/home/soulur/projecks/hello/tests/part8/calc/calc.h
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libcalc1.a  CMakeFiles/calc1.dir/main.cpp.o
+/usr/bin/ranlib ../lib/libcalc1.a

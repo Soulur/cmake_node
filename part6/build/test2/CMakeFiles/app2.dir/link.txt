@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/app2.dir/sort.cpp.o  -o ../../bin/app2   -L/home/soulur/projecks/hello/tests/part6/dll  -Wl,-rpath,/home/soulur/projecks/hello/tests/part6/dll ../../dll/libsort.so 

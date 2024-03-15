@@ -1,0 +1,4 @@
+/home/soulur/projecks/hello/tests/part2/build/CMakeFiles/rebuild_cache.dir
+/home/soulur/projecks/hello/tests/part2/build/CMakeFiles/edit_cache.dir
+/home/soulur/projecks/hello/tests/part2/build/CMakeFiles/calc2.dir
+/home/soulur/projecks/hello/tests/part2/build/CMakeFiles/calc1.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/head.h
+
+/home/soulur/projecks/hello/tests/part1/src/main.cpp
+iostream
+-
+head.h
+/home/soulur/projecks/hello/tests/part1/src/head.h
+

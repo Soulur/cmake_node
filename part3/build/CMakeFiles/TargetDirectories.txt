@@ -1,0 +1,3 @@
+/home/soulur/projecks/hello/tests/part3/build/CMakeFiles/rebuild_cache.dir
+/home/soulur/projecks/hello/tests/part3/build/CMakeFiles/edit_cache.dir
+/home/soulur/projecks/hello/tests/part3/build/CMakeFiles/app.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/app.dir/main.cpp.o  -o ../bin/app   -L/home/soulur/projecks/hello/tests/part3/lib  -L/home/soulur/projecks/hello/tests/part3/dll  -Wl,-rpath,/home/soulur/projecks/hello/tests/part3/lib:/home/soulur/projecks/hello/tests/part3/dll -lcalc1 -lcalc2 
